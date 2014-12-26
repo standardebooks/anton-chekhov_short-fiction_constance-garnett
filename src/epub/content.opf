@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/anton-chekhov/short-stories/constance-garnett</dc:identifier>
 		<dc:date>2014-05-25T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">2014-12-26T05:51:32Z</meta>
+		<meta property="dcterms:modified">2015-02-07T17:12:05Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -12,44 +12,64 @@
 		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
 		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
 		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
-		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com/</meta>
+		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<link href="epub/text/unlicense.xhtml" rel="cc:license"/>
 		<link href="epub/onix.xml" rel="onix-record"/>
 		<dc:title id="title">Short Stories</dc:title>
 		<meta property="file-as" refines="#title">Short Stories</meta>
-		<dc:subject id="subject-1">SUBJECT1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT2</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">LOCLINK1</meta>
-		<meta property="meta-auth" refines="#subject-2">LOCLINK2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description>DESCRIPTION</dc:description>
+		<dc:subject id="subject-1">Russia -- Social life and customs -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Chekhov, Anton Pavlovich, 1860-1904 -- Translations into English</dc:subject>
+		<meta property="meta-auth" refines="#subject-1">http://www.gutenberg.org/ebooks/13413</meta>
+		<meta property="meta-auth" refines="#subject-2">http://www.gutenberg.org/ebooks/13413</meta>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Shorts</meta>
+		<dc:description id="description">A collection of Chekhov's short stories ordered by date of publication.</dc:description>
+		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;Anton Chekhov is widely considered to be one of the greatest short story writers in history.  A physician by day, he&amp;rsquo;s famously quoted as saying, &amp;ldquo;Medicine is my lawful wife, and literature is my mistress.&amp;rdquo;  Chekhov wrote nearly 300 short stories in his long writing career; while at first he wrote mainly to make a profit, as his interest in writing&amp;mdash;and his skill&amp;mdash;grew, he wrote stories that heavily influenced the modern development of the form.&lt;/p&gt;
+			&lt;p&gt;His stories are famous for, among other things, their ambiguous morality and their often inconclusive nature.  Chekhov was a firm believer that the role of the artist was to correctly pose a question, but not necessarily to answer it.&lt;/p&gt;
+			&lt;p&gt;This collection contains all of his short stories that were translated by Constance Garnett.  They&amp;rsquo;re arranged in this volume by the date they were originally published.&lt;/p&gt;
+		</meta>
+		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://www.gutenberg.org/ebooks/13413</dc:source>
+		<dc:source>http://www.gutenberg.org/ebooks/1732</dc:source>
+		<dc:source>http://www.gutenberg.org/ebooks/13415</dc:source>
+		<meta property="se:word-count">79214</meta>
 		<meta property="se:url.wikipedia">https://en.wikipedia.org/wiki/List_of_short_stories_by_Anton_Chekhov</meta>
 		<dc:creator id="author">Anton Chekhov</dc:creator>
 		<meta property="file-as" refines="#author">Chekhov, Anton</meta>
-		<meta property="se.name.person.full-name" refines="#author">Anton Pavlovich Chekhov</meta>
+		<meta property="se:name.person.full-name" refines="#author">Anton Pavlovich Chekhov</meta>
 		<meta property="alternate-script" refines="#author">Анто́н Па́влович Че́хов</meta>
 		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Anton_Chekhov</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Constance Garnett</dc:contributor>
 		<meta property="file-as" refines="#translator">Garnett, Constance</meta>
+		<meta property="se:name.person.full-name" refines="#translator">Constance Clara Garnett</meta>
 		<meta property="se:url.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Constance_Garnett</meta>
 		<meta property="display-seq" refines="#translator">1</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">COVERARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
-		<meta property="se:url.wikipedia" refines="#artist">WIKILINK</meta>
+		<dc:contributor id="artist">Osip Braz</dc:contributor>
+		<meta property="file-as" refines="#artist">Braz, Osip</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Osip Emmanuilovich Braz</meta>
+		<meta property="se:url.wikipedia" refines="#artist">http://en.wikipedia.org/wiki/Osip_Braz</meta>
+		<meta property="alternate-script" refines="#artist">Осип Эммануилович Браз</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBERSORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">LINK</meta>
+		<dc:contributor id="transcriber-1">James Rusk</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Rusk, James</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-2">Chuck Greif</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Greif, Chuck</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">David Widger</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Widger, David</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://alexcabal.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
@@ -61,19 +81,42 @@
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
-		<item href="images/logo.png" id="logo.png" media-type="image/png"/>
+		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
-		<item href="text/chapter-1.xhtml" id="chapter-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-kiss.xhtml" id="the-kiss.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-lady-with-the-dog.xhtml" id="the-lady-with-the-dog.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-misfortune.xhtml" id="a-misfortune.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-trifle-from-life.xhtml" id="a-trifle-from-life.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/anna-on-the-neck.xhtml" id="anna-on-the-neck.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/not-wanted.xhtml" id="not-wanted.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-party.xhtml" id="the-party.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-teacher-of-literature.xhtml" id="the-teacher-of-literature.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/typhus.xhtml" id="typhus.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/misery.xhtml" id="misery.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/terror.xhtml" id="terror.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-womans-kingdom.xhtml" id="a-womans-kingdom.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-problem.xhtml" id="a-problem.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/unread.xhtml" id="unread.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/introduction.xhtml" id="introduction.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/unlicense.xhtml" id="unlicense.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
-		<itemref idref="introduction.xhtml"/>
-		<itemref idref="halftitle.xhtml"/>
-		<itemref idref="chapter-1.xhtml"/>
+		<itemref idref="unread.xhtml"/>
+		<itemref idref="misery.xhtml"/>
+		<itemref idref="not-wanted.xhtml"/>
+		<itemref idref="a-misfortune.xhtml"/>
+		<itemref idref="a-trifle-from-life.xhtml"/>
+		<itemref idref="typhus.xhtml"/>
+		<itemref idref="a-problem.xhtml"/>
+		<itemref idref="the-kiss.xhtml"/>
+		<itemref idref="the-party.xhtml"/>
+		<itemref idref="the-teacher-of-literature.xhtml"/>
+		<itemref idref="terror.xhtml"/>
+		<itemref idref="a-womans-kingdom.xhtml"/>
+		<itemref idref="anna-on-the-neck.xhtml"/>
+		<itemref idref="the-lady-with-the-dog.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="unlicense.xhtml"/>
 	</spine>

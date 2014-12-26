@@ -1,8 +1,23 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+span[epub|type~="subtitle"]{
+	display: block;
+	font-weight: normal;
+}
+
+#the-teacher-of-literature abbr,
+abbr.initialism{
+	font-variant: all-small-caps;
+}
+
+section[epub|type~="subchapter"]{
+	page-break-after: always;
+}
+
 /* helpful during drafting */
 *[epub|type~="z3998:roman"],
-*[lang]:not(html){
+*[lang]:not(html),
+abbr{
 	background: #C0C0C0;
 }
