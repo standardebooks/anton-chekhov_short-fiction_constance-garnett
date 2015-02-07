@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/anton-chekhov/short-stories/constance-garnett</dc:identifier>
 		<dc:date>2014-05-25T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">2015-02-07T19:33:45Z</meta>
+		<meta property="dcterms:modified">2015-02-07T20:02:00Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -36,7 +36,7 @@
 		<dc:source>http://www.gutenberg.org/ebooks/13413</dc:source>
 		<dc:source>http://www.gutenberg.org/ebooks/1732</dc:source>
 		<dc:source>http://www.gutenberg.org/ebooks/13415</dc:source>
-		<meta property="se:word-count">141203</meta>
+		<meta property="se:word-count">141213</meta>
 		<meta property="se:url.wikipedia">https://en.wikipedia.org/wiki/List_of_short_stories_by_Anton_Chekhov</meta>
 		<dc:creator id="author">Anton Chekhov</dc:creator>
 		<meta property="file-as" refines="#author">Chekhov, Anton</meta>
@@ -88,6 +88,7 @@
 		<item href="text/a-misfortune.xhtml" id="a-misfortune.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-trifle-from-life.xhtml" id="a-trifle-from-life.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/anna-on-the-neck.xhtml" id="anna-on-the-neck.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/not-wanted.xhtml" id="not-wanted.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-party.xhtml" id="the-party.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-teacher-of-literature.xhtml" id="the-teacher-of-literature.xhtml" media-type="application/xhtml+xml"/>
@@ -117,6 +118,7 @@
 		<itemref idref="a-womans-kingdom.xhtml"/>
 		<itemref idref="anna-on-the-neck.xhtml"/>
 		<itemref idref="the-lady-with-the-dog.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="unlicense.xhtml"/>
 	</spine>
