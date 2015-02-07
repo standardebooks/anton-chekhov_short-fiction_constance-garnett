@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/anton-chekhov/short-stories/constance-garnett</dc:identifier>
 		<dc:date>2014-05-25T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">2015-02-07T20:03:37Z</meta>
+		<meta property="dcterms:modified">2015-02-07T20:24:19Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -83,20 +83,39 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/a-ladys-story.xhtml" id="a-ladys-story.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-problem.xhtml" id="a-problem.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-nervous-breakdown.xhtml" id="a-nervous-breakdown.xhtml" media-type="application/xhtml+xml"/><item href="text/a-misfortune.xhtml" id="a-misfortune.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-tragic-actor.xhtml" id="a-tragic-actor.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-trifle-from-life.xhtml" id="a-trifle-from-life.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-womans-kingdom.xhtml" id="a-womans-kingdom.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-transgression.xhtml" id="a-transgression.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/after-the-theatre.xhtml" id="after-the-theatre.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/anna-on-the-neck.xhtml" id="anna-on-the-neck.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/champagne.xhtml" id="champagne.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/in-exile.xhtml" id="in-exile.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/in-the-coach-house.xhtml" id="in-the-coach-house.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/misery.xhtml" id="misery.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/not-wanted.xhtml" id="not-wanted.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/on-official-duty.xhtml" id="on-official-duty.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/panic-fears.xhtml" id="panic-fears.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/small-fry.xhtml" id="small-fry.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/sorrow.xhtml" id="sorrow.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/terror.xhtml" id="terror.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-beauties.xhtml" id="the-beauties.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-bet.xhtml" id="the-bet.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-cattle-dealers.xhtml" id="the-cattle-dealers.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-first-class-passenger.xhtml" id="the-first-class-passenger.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-head-gardners-story.xhtml" id="the-head-gardners-story.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-kiss.xhtml" id="the-kiss.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-lady-with-the-dog.xhtml" id="the-lady-with-the-dog.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/a-misfortune.xhtml" id="a-misfortune.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/a-trifle-from-life.xhtml" id="a-trifle-from-life.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/anna-on-the-neck.xhtml" id="anna-on-the-neck.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/not-wanted.xhtml" id="not-wanted.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-party.xhtml" id="the-party.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-requiem.xhtml" id="the-requiem.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-schoolmistress.xhtml" id="the-schoolmistress.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-shoemaker-and-the-devil.xhtml" id="the-shoemaker-and-the-devil.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-teacher-of-literature.xhtml" id="the-teacher-of-literature.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/typhus.xhtml" id="typhus.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/misery.xhtml" id="misery.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/terror.xhtml" id="terror.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/a-womans-kingdom.xhtml" id="a-womans-kingdom.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/a-problem.xhtml" id="a-problem.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/unread.xhtml" id="unread.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/unlicense.xhtml" id="unlicense.xhtml" media-type="application/xhtml+xml"/>
@@ -105,18 +124,38 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="unread.xhtml"/>
+		<itemref idref="a-tragic-actor.xhtml"/>
+		<itemref idref="small-fry.xhtml"/>
+		<itemref idref="sorrow.xhtml"/>
 		<itemref idref="misery.xhtml"/>
+		<itemref idref="the-requiem.xhtml"/>
+		<itemref idref="panic-fears.xhtml"/>
 		<itemref idref="not-wanted.xhtml"/>
 		<itemref idref="a-misfortune.xhtml"/>
+		<itemref idref="the-first-class-passenger.xhtml"/>
 		<itemref idref="a-trifle-from-life.xhtml"/>
+		<itemref idref="champagne.xhtml"/>
 		<itemref idref="typhus.xhtml"/>
+		<itemref idref="a-transgression.xhtml"/>
+		<itemref idref="in-the-coach-house.xhtml"/>
 		<itemref idref="a-problem.xhtml"/>
+		<itemref idref="the-cattle-dealers.xhtml"/>
 		<itemref idref="the-kiss.xhtml"/>
-		<itemref idref="the-party.xhtml"/>
+		<itemref idref="a-ladys-story.xhtml"/>
+		<itemref idref="the-beauties.xhtml"/>
+		<itemref idref="the-party.xhtml"/>     
+		<itemref idref="the-shoemaker-and-the-devil.xhtml"/>
+		<itemref idref="the-bet.xhtml"/>
 		<itemref idref="the-teacher-of-literature.xhtml"/>
+		<itemref idref="a-nervous-breakdown.xhtml"/>
+		<itemref idref="after-the-theatre.xhtml"/>
+		<itemref idref="in-exile.xhtml"/>
 		<itemref idref="terror.xhtml"/>
+		<itemref idref="the-head-gardners-story.xhtml"/>
 		<itemref idref="a-womans-kingdom.xhtml"/>
 		<itemref idref="anna-on-the-neck.xhtml"/>
+		<itemref idref="the-schoolmistress.xhtml"/>
+		<itemref idref="on-official-duty.xhtml"/>
 		<itemref idref="the-lady-with-the-dog.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>

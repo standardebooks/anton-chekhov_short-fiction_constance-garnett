@@ -7,7 +7,8 @@ span[epub|type~="subtitle"]{
 }
 
 #the-teacher-of-literature abbr,
-abbr.initialism{
+abbr.initialism,
+abbr.initial{
 	font-variant: all-small-caps;
 }
 
