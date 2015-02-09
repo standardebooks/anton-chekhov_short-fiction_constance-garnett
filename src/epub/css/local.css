@@ -16,6 +16,24 @@ section[epub|type~="subchapter"]{
 	page-break-after: always;
 }
 
+*[epub|type~="z3998:song"] p,
+*[epub|type~="z3998:verse"] p{
+	text-align: left;
+	text-indent: 0;
+}
+
+*[epub|type~="z3998:song"] p span,
+*[epub|type~="z3998:verse"] p span{
+	display: block;
+	text-indent: -1em;
+	padding-left: 1em;
+}
+
+*[epub|type~="z3998:song"] br,
+*[epub|type~="z3998:verse"] br{
+	display: none;
+}
+
 /* helpful during drafting */
 *[epub|type~="z3998:roman"],
 *[lang]:not(html),
