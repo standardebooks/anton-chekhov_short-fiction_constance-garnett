@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 340">
-	<text style="letter-spacing:5;font-size:93.57;font-family:League Spartan" text-anchor="middle" x="700" y="128.6">SHORT STORIES</text>
-	<text style="letter-spacing:5;font-size:70.18;font-family:League Spartan" text-anchor="middle" x="700" y="288.95">ANTON CHEKHOV</text>
+	<text style="fill:#000;font-family:League Spartan;font-size:93.56725311px;letter-spacing:5px" text-anchor="middle" x="700" y="130">SHORT STORIES</text>
+	<text style="fill:#000;font-family:League Spartan;font-size:70.17543793px;letter-spacing:5px" text-anchor="middle" x="700" y="290">ANTON CHEKHOV</text>
 </svg>
