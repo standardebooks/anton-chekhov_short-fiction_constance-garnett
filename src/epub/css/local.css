@@ -11,12 +11,15 @@ abbr.initialism{
 	font-variant: all-small-caps;
 }
 
-div.note{
+div.note,
+*[epub|type~="z3998:letter"]{
 	margin: 1em;
 }
 
 div.note p,
-div.note + p{
+div.note + p,
+*[epub|type~="z3998:scene"] + p,
+*[epub|type~="z3998:letter"] > p:first-child{
 	text-indent: 0;
 }
 
@@ -40,6 +43,48 @@ section[epub|type~="subchapter"]{
 *[epub|type~="z3998:song"] br,
 *[epub|type~="z3998:verse"] br{
 	display: none;
+}
+
+cite{
+	display: block;
+	text-align: right;
+	margin: 1em 0;
+}
+
+*[epub|type~="z3998:persona"]{
+	font-variant: small-caps;
+	text-transform: lowercase;
+}
+
+td[epub|type~="z3998:persona"]{
+	text-align: right;
+	white-space: nowrap;
+}
+
+td{
+	vertical-align: top;
+	padding: .5em;
+}
+
+*[epub|type~="z3998:stage-direction"]:before{
+	content: "(";
+	font-style: normal;
+}
+
+*[epub|type~="z3998:stage-direction"]:after{
+	content: ")";
+	font-style: normal;
+}
+
+*[epub|type~="z3998:scene"],
+*[epub|type~="z3998:scene"] > h3{
+	margin: 1em;
+}
+
+*[epub|type~="z3998:scene"] > p {
+	margin: auto;
+	text-align: center;
+	width: 75%;
 }
 
 /* helpful during drafting */

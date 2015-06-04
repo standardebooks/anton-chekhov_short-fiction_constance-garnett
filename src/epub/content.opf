@@ -33,9 +33,33 @@
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
-		<dc:source>http://www.gutenberg.org/ebooks/13413</dc:source>
-		<dc:source>http://www.gutenberg.org/ebooks/1732</dc:source>
+		<!--http://www.eldritchpress.org/ac/jr/garnett.htm-->
+		<dc:source>http://www.gutenberg.org/ebooks/13416</dc:source>
+		<!--The Tales of Chekhov, Volume 1-->
+		<dc:source>http://www.gutenberg.org/ebooks/13505</dc:source>
+		<!--The Tales of Chekhov, Volume 2-->
 		<dc:source>http://www.gutenberg.org/ebooks/13415</dc:source>
+		<!--The Tales of Chekhov, Volume 3-->
+		<dc:source>http://www.gutenberg.org/ebooks/13413</dc:source>
+		<!--The Tales of Chekhov, Volume 4-->
+		<dc:source>http://www.gutenberg.org/ebooks/1883</dc:source>
+		<!--The Tales of Chekhov, Volume 5-->
+		<dc:source>http://www.gutenberg.org/ebooks/1944</dc:source>
+		<!--The Tales of Chekhov, Volume 6-->
+		<dc:source>http://www.gutenberg.org/ebooks/13419</dc:source>
+		<!--The Tales of Chekhov, Volume 7-->
+		<dc:source>http://www.gutenberg.org/ebooks/13418</dc:source>
+		<!--The Tales of Chekhov, Volume 8-->
+		<dc:source>http://www.gutenberg.org/ebooks/1732</dc:source>
+		<!--The Tales of Chekhov, Volume 9-->
+		<dc:source>http://www.gutenberg.org/ebooks/13409</dc:source>
+		<!--The Tales of Chekhov, Volume 10-->
+		<dc:source>http://www.gutenberg.org/ebooks/13412</dc:source>
+		<!--The Tales of Chekhov, Volume 11-->
+		<dc:source>http://www.gutenberg.org/ebooks/13417</dc:source>
+		<!--The Tales of Chekhov, Volume 12-->
+		<dc:source>http://www.gutenberg.org/ebooks/13414</dc:source>
+		<!--The Tales of Chekhov, Volume 13-->
 		<meta property="se:word-count">141148</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/List_of_short_stories_by_Anton_Chekhov</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anton-chekhov_short-stories_constance-garnett</meta>
