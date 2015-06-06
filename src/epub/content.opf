@@ -29,7 +29,7 @@
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Anton Chekhov is widely considered to be one of the greatest short story writers in history.  A physician by day, he&amp;rsquo;s famously quoted as saying, &amp;ldquo;Medicine is my lawful wife, and literature is my mistress.&amp;rdquo;  Chekhov wrote nearly 300 short stories in his long writing career; while at first he wrote mainly to make a profit, as his interest in writing&amp;mdash;and his skill&amp;mdash;grew, he wrote stories that heavily influenced the modern development of the form.&lt;/p&gt;
 			&lt;p&gt;His stories are famous for, among other things, their ambiguous morality and their often inconclusive nature.  Chekhov was a firm believer that the role of the artist was to correctly pose a question, but not necessarily to answer it.&lt;/p&gt;
-			&lt;p&gt;This collection contains all of his short stories that were translated by Constance Garnett.  They&amp;rsquo;re arranged in this volume by the date they were originally published.&lt;/p&gt;
+			&lt;p&gt;This collection contains all of his short stories that were translated by Constance Garnett, arranged by the date they were originally published.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
