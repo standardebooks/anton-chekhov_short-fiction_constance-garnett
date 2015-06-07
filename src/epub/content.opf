@@ -33,7 +33,6 @@
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
-		<!--http://www.eldritchpress.org/ac/jr/garnett.htm-->
 		<dc:source>http://www.gutenberg.org/ebooks/13416</dc:source>
 		<!--The Tales of Chekhov, Volume 1-->
 		<dc:source>http://www.gutenberg.org/ebooks/13505</dc:source>
