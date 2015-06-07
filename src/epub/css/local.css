@@ -92,6 +92,14 @@ td{
 	width: 75%;
 }
 
+section[epub|type~="rearnotes"] > ol > li > p:first-child{
+	text-indent: 0;
+}
+
+section[epub|type~="rearnotes"] > ol > li{
+	margin: 1em 0;
+}
+
 /* helpful during drafting */
 *[epub|type~="z3998:roman"],
 *[lang]:not(html),
