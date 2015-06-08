@@ -92,6 +92,11 @@ td{
 	width: 75%;
 }
 
+*[epub|type~="z3998:scene"] header{
+	font-variant: small-caps;
+	text-align: center;
+}
+
 section[epub|type~="rearnotes"] > ol > li > p:first-child{
 	text-indent: 0;
 }
