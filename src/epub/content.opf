@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/anton-chekhov/short-stories/constance-garnett</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/anton-chekhov/short-works/constance-garnett</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
 		<meta property="dcterms:modified">2015-05-12T00:01:00Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
@@ -16,20 +16,20 @@
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<link href="epub/text/unlicense.xhtml" rel="cc:license"/>
 		<link href="epub/onix.xml" rel="onix-record"/>
-		<dc:title id="title">Short Stories</dc:title>
-		<meta property="file-as" refines="#title">Short Stories</meta>
+		<dc:title id="title">Short Works</dc:title>
+		<meta property="file-as" refines="#title">Short Works</meta>
 		<dc:subject id="subject-1">Russia -- Social life and customs -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Chekhov, Anton Pavlovich, 1860-1904 -- Translations into English</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">http://www.gutenberg.org/ebooks/13413</meta>
 		<meta property="meta-auth" refines="#subject-2">http://www.gutenberg.org/ebooks/13413</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
-		<dc:description id="description">A collection of Chekhov's short stories ordered by date of publication.</dc:description>
+		<dc:description id="description">A collection of Chekhov's short stories and novellas ordered by date of publication.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Anton Chekhov is widely considered to be one of the greatest short story writers in history.  A physician by day, he&amp;rsquo;s famously quoted as saying, &amp;ldquo;Medicine is my lawful wife, and literature is my mistress.&amp;rdquo;  Chekhov wrote nearly 300 short stories in his long writing career; while at first he wrote mainly to make a profit, as his interest in writing&amp;mdash;and his skill&amp;mdash;grew, he wrote stories that heavily influenced the modern development of the form.&lt;/p&gt;
 			&lt;p&gt;His stories are famous for, among other things, their ambiguous morality and their often inconclusive nature.  Chekhov was a firm believer that the role of the artist was to correctly pose a question, but not necessarily to answer it.&lt;/p&gt;
-			&lt;p&gt;This collection contains all of his short stories that were translated by Constance Garnett, arranged by the date they were originally published.&lt;/p&gt;
+			&lt;p&gt;This collection contains all of his short stories and novellas that were translated by Constance Garnett, arranged by the date they were originally published.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
@@ -61,7 +61,7 @@
 		<!--The Tales of Chekhov, Volume 13-->
 		<meta property="se:word-count">141148</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/List_of_short_stories_by_Anton_Chekhov</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/anton-chekhov_short-stories_constance-garnett</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/anton-chekhov_short-works_constance-garnett</meta>
 		<dc:creator id="author">Anton Chekhov</dc:creator>
 		<meta property="file-as" refines="#author">Chekhov, Anton</meta>
 		<meta property="se:name.person.full-name" refines="#author">Anton Pavlovich Chekhov</meta>
