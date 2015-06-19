@@ -105,6 +105,10 @@ section[epub|type~="rearnotes"] > ol > li{
 	margin: 1em 0;
 }
 
+abbr.name{
+	white-space: nowrap;
+}
+
 /* helpful during drafting */
 *[epub|type~="z3998:roman"],
 *[lang]:not(html),
