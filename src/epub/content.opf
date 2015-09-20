@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/anton-chekhov/short-works/constance-garnett</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2015-07-02T20:17:05Z</meta>
+		<meta property="dcterms:modified">2015-09-20T03:25:21Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -16,8 +16,8 @@
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<link href="epub/text/unlicense.xhtml" rel="cc:license"/>
 		<link href="epub/onix.xml" rel="onix-record"/>
-		<dc:title id="title">Short Works</dc:title>
-		<meta property="file-as" refines="#title">Short Works</meta>
+		<dc:title id="title">Short Fiction</dc:title>
+		<meta property="file-as" refines="#title">Short Fiction</meta>
 		<dc:subject id="subject-1">Russia -- Social life and customs -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Chekhov, Anton Pavlovich, 1860-1904 -- Translations into English</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">http://www.gutenberg.org/ebooks/13413</meta>
@@ -61,7 +61,7 @@
 		<!--The Tales of Chekhov, Volume 13-->
 		<meta property="se:word-count">801896</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/List_of_short_stories_by_Anton_Chekhov</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/anton-chekhov_short-works_constance-garnett</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/anton-chekhov_short-fiction_constance-garnett</meta>
 		<dc:creator id="author">Anton Chekhov</dc:creator>
 		<meta property="file-as" refines="#author">Chekhov, Anton</meta>
 		<meta property="se:name.person.full-name" refines="#author">Anton Pavlovich Chekhov</meta>
