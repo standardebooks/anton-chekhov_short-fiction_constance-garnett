@@ -28,7 +28,7 @@ div.note + p,
 	text-indent: 0;
 }
 
-section[epub|type~="subchapter"]{
+section[epub|type~="chapter"]{
 	page-break-after: always;
 }
 
