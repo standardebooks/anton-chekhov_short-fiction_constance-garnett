@@ -174,7 +174,7 @@
 		<item href="text/champagne.xhtml" id="champagne.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/children.xhtml" id="children.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/choristers.xhtml" id="choristers.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/darkness.xhtml" id="darkness.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/difficult-people.xhtml" id="difficult-people.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/dreams.xhtml" id="dreams.xhtml" media-type="application/xhtml+xml"/>
