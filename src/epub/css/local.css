@@ -10,11 +10,6 @@ span[epub|type~="subtitle"]{
 	font-variant: small-caps;
 }
 
-#the-teacher-of-literature abbr,
-abbr.initialism{
-	font-variant: all-small-caps;
-}
-
 div.note,
 *[epub|type~="z3998:letter"]{
 	margin: 1em;
