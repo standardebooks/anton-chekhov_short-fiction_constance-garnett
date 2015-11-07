@@ -59,6 +59,7 @@
 		<!--The Tales of Chekhov, Volume 12-->
 		<dc:source>http://www.gutenberg.org/ebooks/13414</dc:source>
 		<!--The Tales of Chekhov, Volume 13-->
+		<dc:source>http://catalog.hathitrust.org/Record/100025935</dc:source>
 		<meta property="se:word-count">801898</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/List_of_short_stories_by_Anton_Chekhov</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anton-chekhov_short-fiction_constance-garnett</meta>
