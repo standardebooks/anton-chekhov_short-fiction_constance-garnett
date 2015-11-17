@@ -10,13 +10,10 @@ span[epub|type~="subtitle"]{
 	font-variant: small-caps;
 }
 
-div.note,
 *[epub|type~="z3998:letter"]{
 	margin: 1em;
 }
 
-div.note p,
-div.note + p,
 *[epub|type~="z3998:scene"] + p,
 *[epub|type~="z3998:letter"] > p:first-child,
 *[epub|type~="z3998:salutation"] + p{
@@ -76,8 +73,7 @@ td{
 	font-style: normal;
 }
 
-*[epub|type~="z3998:scene"],
-*[epub|type~="z3998:scene"] > h3{
+*[epub|type~="z3998:scene"]{
 	margin: 1em;
 }
 
@@ -106,7 +102,7 @@ abbr.name{
 
 /* helpful during drafting */
 *[epub|type~="z3998:roman"],
-*[lang]:not(html),
+*[xml|lang]:not(html),
 abbr{
 	background: #C0C0C0;
 }
