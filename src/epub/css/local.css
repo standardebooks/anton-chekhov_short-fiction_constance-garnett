@@ -10,13 +10,13 @@ span[epub|type~="subtitle"]{
 	font-variant: small-caps;
 }
 
-*[epub|type~="z3998:letter"]{
+[epub|type~="z3998:letter"]{
 	margin: 1em;
 }
 
-*[epub|type~="z3998:scene"] + p,
-*[epub|type~="z3998:letter"] > p:first-child,
-*[epub|type~="z3998:salutation"] + p{
+[epub|type~="z3998:scene"] + p,
+[epub|type~="z3998:letter"] > p:first-child,
+[epub|type~="z3998:salutation"] + p{
 	text-indent: 0;
 }
 
@@ -24,21 +24,21 @@ section[epub|type~="chapter"]{
 	page-break-after: always;
 }
 
-*[epub|type~="z3998:song"] p,
-*[epub|type~="z3998:verse"] p{
+[epub|type~="z3998:song"] p,
+[epub|type~="z3998:verse"] p{
 	text-align: left;
 	text-indent: 0;
 }
 
-*[epub|type~="z3998:song"] p span,
-*[epub|type~="z3998:verse"] p span{
+[epub|type~="z3998:song"] p span,
+[epub|type~="z3998:verse"] p span{
 	display: block;
 	text-indent: -1em;
 	padding-left: 1em;
 }
 
-*[epub|type~="z3998:song"] br,
-*[epub|type~="z3998:verse"] br{
+[epub|type~="z3998:song"] br,
+[epub|type~="z3998:verse"] br{
 	display: none;
 }
 
@@ -48,7 +48,7 @@ cite{
 	margin: 1em 0;
 }
 
-*[epub|type~="z3998:persona"]{
+[epub|type~="z3998:persona"]{
 	font-variant: small-caps;
 	text-transform: lowercase;
 }
@@ -63,27 +63,27 @@ td{
 	padding: .5em;
 }
 
-*[epub|type~="z3998:stage-direction"]:before{
+[epub|type~="z3998:stage-direction"]:before{
 	content: "(";
 	font-style: normal;
 }
 
-*[epub|type~="z3998:stage-direction"]:after{
+[epub|type~="z3998:stage-direction"]:after{
 	content: ")";
 	font-style: normal;
 }
 
-*[epub|type~="z3998:scene"]{
+[epub|type~="z3998:scene"]{
 	margin: 1em;
 }
 
-*[epub|type~="z3998:scene"] > p {
+[epub|type~="z3998:scene"] > p {
 	margin: auto;
 	text-align: center;
 	width: 75%;
 }
 
-*[epub|type~="z3998:scene"] header{
+[epub|type~="z3998:scene"] header{
 	font-variant: small-caps;
 	text-align: center;
 }
@@ -101,8 +101,8 @@ abbr.name{
 }
 
 /* helpful during drafting */
-*[epub|type~="z3998:roman"],
-*[xml|lang]:not(html),
+[epub|type~="z3998:roman"],
+[xml|lang]:not(html),
 abbr{
 	background: #C0C0C0;
 }
