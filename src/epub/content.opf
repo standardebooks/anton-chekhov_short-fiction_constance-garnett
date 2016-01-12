@@ -24,7 +24,7 @@
 		<meta property="meta-auth" refines="#subject-2">http://www.gutenberg.org/ebooks/13413</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
-		<dc:description id="description">A collection of Chekhov's short stories and novellas ordered by date of publication.</dc:description>
+		<dc:description id="description">A collection of Chekhov’s short stories and novellas ordered by date of publication.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Anton Chekhov is widely considered to be one of the greatest short story writers in history.  A physician by day, he&amp;rsquo;s famously quoted as saying, &amp;ldquo;Medicine is my lawful wife, and literature is my mistress.&amp;rdquo;  Chekhov wrote nearly 300 short stories in his long writing career; while at first he wrote mainly to make a profit, as his interest in writing&amp;mdash;and his skill&amp;mdash;grew, he wrote stories that heavily influenced the modern development of the form.&lt;/p&gt;
