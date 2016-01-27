@@ -20,8 +20,8 @@
 		<meta property="file-as" refines="#title">Short Fiction</meta>
 		<dc:subject id="subject-1">Russia -- Social life and customs -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Chekhov, Anton Pavlovich, 1860-1904 -- Translations into English</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">http://www.gutenberg.org/ebooks/13413</meta>
-		<meta property="meta-auth" refines="#subject-2">http://www.gutenberg.org/ebooks/13413</meta>
+		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/13413</meta>
+		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/13413</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of Chekhov’s short stories and novellas ordered by date of publication.</dc:description>
@@ -33,31 +33,31 @@
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
-		<dc:source>http://www.gutenberg.org/ebooks/13416</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/13416</dc:source>
 		<!--The Tales of Chekhov, Volume 1-->
-		<dc:source>http://www.gutenberg.org/ebooks/13505</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/13505</dc:source>
 		<!--The Tales of Chekhov, Volume 2-->
-		<dc:source>http://www.gutenberg.org/ebooks/13415</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/13415</dc:source>
 		<!--The Tales of Chekhov, Volume 3-->
-		<dc:source>http://www.gutenberg.org/ebooks/13413</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/13413</dc:source>
 		<!--The Tales of Chekhov, Volume 4-->
-		<dc:source>http://www.gutenberg.org/ebooks/1883</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/1883</dc:source>
 		<!--The Tales of Chekhov, Volume 5-->
-		<dc:source>http://www.gutenberg.org/ebooks/1944</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/1944</dc:source>
 		<!--The Tales of Chekhov, Volume 6-->
-		<dc:source>http://www.gutenberg.org/ebooks/13419</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/13419</dc:source>
 		<!--The Tales of Chekhov, Volume 7-->
-		<dc:source>http://www.gutenberg.org/ebooks/13418</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/13418</dc:source>
 		<!--The Tales of Chekhov, Volume 8-->
-		<dc:source>http://www.gutenberg.org/ebooks/1732</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/1732</dc:source>
 		<!--The Tales of Chekhov, Volume 9-->
-		<dc:source>http://www.gutenberg.org/ebooks/13409</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/13409</dc:source>
 		<!--The Tales of Chekhov, Volume 10-->
-		<dc:source>http://www.gutenberg.org/ebooks/13412</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/13412</dc:source>
 		<!--The Tales of Chekhov, Volume 11-->
-		<dc:source>http://www.gutenberg.org/ebooks/13417</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/13417</dc:source>
 		<!--The Tales of Chekhov, Volume 12-->
-		<dc:source>http://www.gutenberg.org/ebooks/13414</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/13414</dc:source>
 		<!--The Tales of Chekhov, Volume 13-->
 		<dc:source>http://catalog.hathitrust.org/Record/100025935</dc:source>
 		<meta property="se:word-count">801898</meta>
@@ -196,6 +196,7 @@
 		<item href="text/happiness.xhtml" id="happiness.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/home.xhtml" id="home.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/hush.xhtml" id="hush.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/in-an-hotel.xhtml" id="in-an-hotel.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/in-a-strange-land.xhtml" id="in-a-strange-land.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/in-exile.xhtml" id="in-exile.xhtml" media-type="application/xhtml+xml"/>
@@ -310,6 +311,8 @@
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
+		<itemref idref="imprint.xhtml"/>
+		<itemref idref="imprint.xhtml"/>
 		<itemref idref="a-living-chattel.xhtml"/>
 		<itemref idref="joy.xhtml"/>
 		<itemref idref="at-the-barbers.xhtml"/>
