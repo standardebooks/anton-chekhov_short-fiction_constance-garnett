@@ -312,7 +312,6 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
-		<itemref idref="imprint.xhtml"/>
 		<itemref idref="a-living-chattel.xhtml"/>
 		<itemref idref="joy.xhtml"/>
 		<itemref idref="at-the-barbers.xhtml"/>
