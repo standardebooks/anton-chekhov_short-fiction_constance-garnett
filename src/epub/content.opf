@@ -59,7 +59,7 @@
 		<!--The Tales of Chekhov, Volume 12-->
 		<dc:source>https://www.gutenberg.org/ebooks/13414</dc:source>
 		<!--The Tales of Chekhov, Volume 13-->
-		<dc:source>http://catalog.hathitrust.org/Record/100025935</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/100025935</dc:source>
 		<meta property="se:word-count">801898</meta>
 		<meta property="se:reading-ease.flesch">71.65</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/List_of_short_stories_by_Anton_Chekhov</meta>
