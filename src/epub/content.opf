@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett</dc:identifier>
 		<dc:date>2016-06-20T19:22:37Z</dc:date>
-		<meta property="dcterms:modified">2016-08-24T16:51:39Z</meta>
-		<meta property="se:revision-number">4</meta>
+		<meta property="dcterms:modified">2016-10-31T20:10:50Z</meta>
+		<meta property="se:revision-number">6</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -28,7 +28,7 @@
 		<dc:description id="description">A collection of Chekhov’s short stories and novellas ordered by date of publication.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Anton Chekhov is widely considered to be one of the greatest short story writers in history.  A physician by day, he&amp;rsquo;s famously quoted as saying, &amp;ldquo;Medicine is my lawful wife, and literature is my mistress.&amp;rdquo;  Chekhov wrote nearly 300 short stories in his long writing career; while at first he wrote mainly to make a profit, as his interest in writing&amp;mdash;and his skill&amp;mdash;grew, he wrote stories that heavily influenced the modern development of the form.&lt;/p&gt;
+			&lt;p&gt;Anton Chekhov is widely considered to be one of the greatest short story writers in history.  A physician by day, he’s famously quoted as saying, “Medicine is my lawful wife, and literature is my mistress.”  Chekhov wrote nearly 300 short stories in his long writing career; while at first he wrote mainly to make a profit, as his interest in writing—and his skill—grew, he wrote stories that heavily influenced the modern development of the form.&lt;/p&gt;
 			&lt;p&gt;His stories are famous for, among other things, their ambiguous morality and their often inconclusive nature.  Chekhov was a firm believer that the role of the artist was to correctly pose a question, but not necessarily to answer it.&lt;/p&gt;
 			&lt;p&gt;This collection contains all of his short stories and two novellas, all translated by Constance Garnett, and arranged by the date they were originally published.&lt;/p&gt;
 		</meta>
