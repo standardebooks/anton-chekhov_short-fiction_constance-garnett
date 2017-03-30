@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett</dc:identifier>
 		<dc:date>2016-06-20T19:22:37Z</dc:date>
-		<meta property="dcterms:modified">2017-03-25T01:38:06Z</meta>
-		<meta property="se:revision-number">11</meta>
+		<meta property="dcterms:modified">2017-03-30T17:51:11Z</meta>
+		<meta property="se:revision-number">12</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -61,7 +61,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/13414</dc:source>
 		<!--The Tales of Chekhov, Volume 13-->
 		<dc:source>https://catalog.hathitrust.org/Record/100025935</dc:source>
-		<meta property="se:word-count">801536</meta>
+		<meta property="se:word-count">801535</meta>
 		<meta property="se:reading-ease.flesch">71.65</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/List_of_short_stories_by_Anton_Chekhov</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anton-chekhov_short-fiction_constance-garnett</meta>
