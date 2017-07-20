@@ -77,7 +77,7 @@ td{
 	margin: 1em;
 }
 
-[epub|type~="z3998:scene"] > p {
+[epub|type~="z3998:scene"] > p{
 	margin: auto;
 	text-align: center;
 	width: 75%;
