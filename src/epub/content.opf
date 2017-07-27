@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett</dc:identifier>
 		<dc:date>2016-06-20T19:22:37Z</dc:date>
-		<meta property="dcterms:modified">2017-07-20T23:51:27Z</meta>
-		<meta property="se:revision-number">20</meta>
+		<meta property="dcterms:modified">2017-07-27T20:01:52Z</meta>
+		<meta property="se:revision-number">21</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -28,8 +28,8 @@
 		<dc:description id="description">A collection of Chekhov’s short stories and novellas ordered by date of publication.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Anton Chekhov is widely considered to be one of the greatest short story writers in history.  A physician by day, he’s famously quoted as saying, “Medicine is my lawful wife, and literature is my mistress.”  Chekhov wrote nearly 300 short stories in his long writing career; while at first he wrote mainly to make a profit, as his interest in writing—and his skill—grew, he wrote stories that heavily influenced the modern development of the form.&lt;/p&gt;
-			&lt;p&gt;His stories are famous for, among other things, their ambiguous morality and their often inconclusive nature.  Chekhov was a firm believer that the role of the artist was to correctly pose a question, but not necessarily to answer it.&lt;/p&gt;
+			&lt;p&gt;Anton Chekhov is widely considered to be one of the greatest short story writers in history. A physician by day, he’s famously quoted as saying, “Medicine is my lawful wife, and literature is my mistress.” Chekhov wrote nearly 300 short stories in his long writing career; while at first he wrote mainly to make a profit, as his interest in writing—and his skill—grew, he wrote stories that heavily influenced the modern development of the form.&lt;/p&gt;
+			&lt;p&gt;His stories are famous for, among other things, their ambiguous morality and their often inconclusive nature. Chekhov was a firm believer that the role of the artist was to correctly pose a question, but not necessarily to answer it.&lt;/p&gt;
 			&lt;p&gt;This collection contains all of his short stories and two novellas, all translated by Constance Garnett, and arranged by the date they were originally published.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
@@ -61,7 +61,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/13414</dc:source>
 		<!--The Tales of Chekhov, Volume 13-->
 		<dc:source>https://catalog.hathitrust.org/Record/100025935</dc:source>
-		<meta property="se:word-count">801660</meta>
+		<meta property="se:word-count">801662</meta>
 		<meta property="se:reading-ease.flesch">71.65</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/List_of_short_stories_by_Anton_Chekhov</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anton-chekhov_short-fiction_constance-garnett</meta>
