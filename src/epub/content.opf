@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/anton-chekhov/short-fiction/constance-garnett</dc:identifier>
 		<dc:date>2016-06-20T19:22:37Z</dc:date>
-		<meta property="dcterms:modified">2017-09-10T21:03:35Z</meta>
-		<meta property="se:revision-number">25</meta>
+		<meta property="dcterms:modified">2017-09-19T02:36:29Z</meta>
+		<meta property="se:revision-number">26</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -112,27 +112,6 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
-		<item href="text/aborigines.xhtml" id="aborigines.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/about-love.xhtml" id="about-love.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/after-the-theatre.xhtml" id="after-the-theatre.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/agafya.xhtml" id="agafya.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/anna-on-the-neck.xhtml" id="anna-on-the-neck.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/anyuta.xhtml" id="anyuta.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/an-actors-end.xhtml" id="an-actors-end.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/an-adventure.xhtml" id="an-adventure.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/an-artists-story.xhtml" id="an-artists-story.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/an-avenger.xhtml" id="an-avenger.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/an-enigmatic-nature.xhtml" id="an-enigmatic-nature.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/an-inadvertence.xhtml" id="an-inadvertence.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/an-incident.xhtml" id="an-incident.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/an-inquiry.xhtml" id="an-inquiry.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/ariadne.xhtml" id="ariadne.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/art.xhtml" id="art.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/at-a-country-house.xhtml" id="at-a-country-house.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/at-a-summer-villa.xhtml" id="at-a-summer-villa.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/at-christmas-time.xhtml" id="at-christmas-time.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/at-home.xhtml" id="at-home.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/at-the-barbers.xhtml" id="at-the-barbers.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-bad-business.xhtml" id="a-bad-business.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-blunder.xhtml" id="a-blunder.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-chameleon.xhtml" id="a-chameleon.xhtml" media-type="application/xhtml+xml"/>
@@ -160,8 +139,8 @@
 		<item href="text/a-play.xhtml" id="a-play.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-problem.xhtml" id="a-problem.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-slander.xhtml" id="a-slander.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/a-story-without-an-end.xhtml" id="a-story-without-an-end.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-story-without-a-title.xhtml" id="a-story-without-a-title.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-story-without-an-end.xhtml" id="a-story-without-an-end.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-tragic-actor.xhtml" id="a-tragic-actor.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-transgression.xhtml" id="a-transgression.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-trifle-from-life.xhtml" id="a-trifle-from-life.xhtml" media-type="application/xhtml+xml"/>
@@ -170,6 +149,27 @@
 		<item href="text/a-troublesome-visitor.xhtml" id="a-troublesome-visitor.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-womans-kingdom.xhtml" id="a-womans-kingdom.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-work-of-art.xhtml" id="a-work-of-art.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/aborigines.xhtml" id="aborigines.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/about-love.xhtml" id="about-love.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/after-the-theatre.xhtml" id="after-the-theatre.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/agafya.xhtml" id="agafya.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/an-actors-end.xhtml" id="an-actors-end.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/an-adventure.xhtml" id="an-adventure.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/an-artists-story.xhtml" id="an-artists-story.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/an-avenger.xhtml" id="an-avenger.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/an-enigmatic-nature.xhtml" id="an-enigmatic-nature.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/an-inadvertence.xhtml" id="an-inadvertence.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/an-incident.xhtml" id="an-incident.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/an-inquiry.xhtml" id="an-inquiry.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/anna-on-the-neck.xhtml" id="anna-on-the-neck.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/anyuta.xhtml" id="anyuta.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/ariadne.xhtml" id="ariadne.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/art.xhtml" id="art.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/at-a-country-house.xhtml" id="at-a-country-house.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/at-a-summer-villa.xhtml" id="at-a-summer-villa.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/at-christmas-time.xhtml" id="at-christmas-time.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/at-home.xhtml" id="at-home.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/at-the-barbers.xhtml" id="at-the-barbers.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/bad-weather.xhtml" id="bad-weather.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/betrothed.xhtml" id="betrothed.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/boots.xhtml" id="boots.xhtml" media-type="application/xhtml+xml"/>
@@ -198,8 +198,8 @@
 		<item href="text/home.xhtml" id="home.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/hush.xhtml" id="hush.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/in-an-hotel.xhtml" id="in-an-hotel.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/in-a-strange-land.xhtml" id="in-a-strange-land.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/in-an-hotel.xhtml" id="in-an-hotel.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/in-exile.xhtml" id="in-exile.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/in-passion-week.xhtml" id="in-passion-week.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/in-the-coach-house.xhtml" id="in-the-coach-house.xhtml" media-type="application/xhtml+xml"/>
@@ -231,8 +231,8 @@
 		<item href="text/overdoing-it.xhtml" id="overdoing-it.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/oysters.xhtml" id="oysters.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/panic-fears.xhtml" id="panic-fears.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/peasants.xhtml" id="peasants.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/peasant-wives.xhtml" id="peasant-wives.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/peasants.xhtml" id="peasants.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/polinka.xhtml" id="polinka.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/rothschilds-fiddle.xhtml" id="rothschilds-fiddle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/shrove-tuesday.xhtml" id="shrove-tuesday.xhtml" media-type="application/xhtml+xml"/>
