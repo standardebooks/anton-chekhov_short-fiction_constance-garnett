@@ -15,7 +15,6 @@ span[epub|type~="subtitle"]{
 }
 
 [epub|type~="z3998:scene"] + p,
-[epub|type~="z3998:letter"] > p:first-child,
 [epub|type~="z3998:salutation"] + p{
 	text-indent: 0;
 }
@@ -86,10 +85,6 @@ td{
 [epub|type~="z3998:scene"] header{
 	font-variant: small-caps;
 	text-align: center;
-}
-
-section[epub|type~="rearnotes"] > ol > li > p:first-child{
-	text-indent: 0;
 }
 
 section[epub|type~="rearnotes"] > ol > li{
