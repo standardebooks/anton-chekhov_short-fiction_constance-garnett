@@ -87,6 +87,10 @@ td{
 	text-align: center;
 }
 
+.note p:first-child + p{
+	text-indent: 0;
+}
+
 section[epub|type~="rearnotes"] > ol > li{
 	margin: 1em 0;
 }
