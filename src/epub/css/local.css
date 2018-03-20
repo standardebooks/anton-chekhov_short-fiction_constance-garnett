@@ -47,18 +47,49 @@ cite{
 	margin: 1em 0;
 }
 
-[epub|type~="z3998:persona"]{
-	font-variant: all-small-caps;
+[epub|type~="z3998:drama"]{
+	border-collapse: collapse;
 }
 
-td[epub|type~="z3998:persona"]{
-	text-align: right;
-	white-space: nowrap;
+[epub|type~="z3998:drama"] tr:first-child td{
+	padding-top: 0;
 }
 
-td{
+[epub|type~="z3998:drama"] tr:last-child td{
+	padding-bottom: 0;
+}
+
+[epub|type~="z3998:drama"] td{
 	vertical-align: top;
 	padding: .5em;
+}
+
+[epub|type~="z3998:drama"] td:last-child{
+	padding-right: 0;
+}
+
+[epub|type~="z3998:drama"] td:first-child{
+	padding-left: 0;
+}
+
+[epub|type~="z3998:drama"] td[epub|type~="z3998:persona"]{
+	hyphens: none;
+	text-align: right;
+	width: 20%;
+}
+
+[epub|type~="z3998:drama"] td p{
+	text-indent: 0;
+}
+
+table[epub|type~="z3998:drama"],
+[epub|type~="z3998:drama"] table{
+	margin: 1em auto;
+	width: 100%;
+}
+
+[epub|type~="z3998:stage-direction"]{
+	font-style: italic;
 }
 
 [epub|type~="z3998:stage-direction"]::before{
@@ -69,6 +100,10 @@ td{
 [epub|type~="z3998:stage-direction"]::after{
 	content: ")";
 	font-style: normal;
+}
+
+[epub|type~="z3998:persona"]{
+	font-variant: all-small-caps;
 }
 
 [epub|type~="z3998:scene"]{
