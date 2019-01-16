@@ -128,7 +128,3 @@ table[epub|type~="z3998:drama"],
 section[epub|type~="rearnotes"] > ol > li{
 	margin: 1em 0;
 }
-
-abbr.name{
-	white-space: nowrap;
-}
