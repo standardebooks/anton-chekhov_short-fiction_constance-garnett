@@ -26,23 +26,23 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Short Fiction</dc:title>
 		<meta property="file-as" refines="#title">Short Fiction</meta>
 		<dc:subject id="subject-1">Russia -- Social life and customs -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Chekhov, Anton Pavlovich, 1860-1904 -- Translations into English</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/13413</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/13413</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2008116778</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of Chekhov’s short stories and novellas ordered by date of publication.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Anton Chekhov is widely considered to be one of the greatest short story writers in history. A physician by day, he’s famously quoted as saying, “Medicine is my lawful wife, and literature is my mistress.” Chekhov wrote nearly 300 short stories in his long writing career; while at first he wrote mainly to make a profit, as his interest in writing—and his skill—grew, he wrote stories that heavily influenced the modern development of the form.&lt;/p&gt;
 			&lt;p&gt;His stories are famous for, among other things, their ambiguous morality and their often inconclusive nature. Chekhov was a firm believer that the role of the artist was to correctly pose a question, but not necessarily to answer it.&lt;/p&gt;
 			&lt;p&gt;This collection contains all of his short stories and two novellas, all translated by Constance Garnett, and arranged by the date they were originally published.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/13416</dc:source>
 		<!--The Tales of Chekhov, Volume 1-->

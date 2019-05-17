@@ -125,6 +125,6 @@ table[epub|type~="z3998:drama"],
 	text-indent: 0;
 }
 
-section[epub|type~="rearnotes"] > ol > li{
+section[epub|type~="endnotes"] > ol > li{
 	margin: 1em 0;
 }
