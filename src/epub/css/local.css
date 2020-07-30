@@ -20,7 +20,7 @@ span[epub|type~="subtitle"]{
 }
 
 section[epub|type~="chapter"]{
-	page-break-after: always;
+	break-after: page;
 }
 
 [epub|type~="z3998:song"] p,
@@ -74,6 +74,7 @@ cite{
 
 [epub|type~="z3998:drama"] td[epub|type~="z3998:persona"]{
 	hyphens: none;
+	-epub-hyphens: none;
 	text-align: right;
 	width: 20%;
 }
