@@ -79,10 +79,6 @@ cite{
 	width: 20%;
 }
 
-[epub|type~="z3998:drama"] td p{
-	text-indent: 0;
-}
-
 table[epub|type~="z3998:drama"],
 [epub|type~="z3998:drama"] table{
 	margin: 1em auto;
