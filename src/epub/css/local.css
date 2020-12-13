@@ -120,3 +120,8 @@ table[epub|type~="z3998:drama"],
 section[epub|type~="endnotes"] > ol > li{
 	margin: 1em 0;
 }
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
