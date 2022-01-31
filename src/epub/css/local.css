@@ -38,8 +38,8 @@ section[epub|type~="chapter"]{
 
 cite{
 	display: block;
-	text-align: right;
 	margin: 1em 0;
+	text-align: right;
 }
 
 [epub|type~="z3998:drama"] table,
@@ -58,8 +58,8 @@ table[epub|type~="z3998:drama"]{
 }
 
 [epub|type~="z3998:drama"] td{
-	vertical-align: top;
 	padding: .5em;
+	vertical-align: top;
 }
 
 [epub|type~="z3998:drama"] td:last-child{
