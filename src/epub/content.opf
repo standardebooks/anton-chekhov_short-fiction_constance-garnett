@@ -40,6 +40,7 @@
 		<meta property="se:is-a-collection">true</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Gateway to the Great Books</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="se:title-in-collection" refines="#collection-1">The Darling</meta>
 		<dc:description id="description">A collection of Chekhov’s short stories and novellas ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/anton-chekhov"&gt;Anton Chekhov&lt;/a&gt; is widely considered to be one of the greatest short story writers in history. A physician by day, he’s famously quoted as saying, “Medicine is my lawful wife, and literature is my mistress.” Chekhov wrote nearly 300 short stories in his long writing career; while at first he wrote mainly to make a profit, as his interest in writing—and his skill—grew, he wrote stories that heavily influenced the modern development of the form.&lt;/p&gt;
