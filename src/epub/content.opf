@@ -30,8 +30,8 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Short Fiction</dc:title>
 		<meta property="file-as" refines="#title">Short Fiction</meta>
-		<dc:subject id="subject-1">Russia -- Social life and customs -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Chekhov, Anton Pavlovich, 1860-1904 -- Translations into English</dc:subject>
+		<dc:subject id="subject-1">Russia--Social life and customs--Fiction</dc:subject>
+		<dc:subject id="subject-2">Chekhov, Anton Pavlovich, 1860-1904--Translations into English</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008116778</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
